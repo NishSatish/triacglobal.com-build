@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="615" height="615" viewBox="0 0 615 615">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2098ec;
+      }
+
+      .cls-2 {
+        fill: #36454f;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_24);
+      }
+    </style>
+    <filter id="Ellipse_24" x="0" y="0" width="615" height="615" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="32.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-2566.5 -1686.5)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 2566.5, 1686.5)">
+      <circle id="Ellipse_24-2" data-name="Ellipse 24" class="cls-1" cx="210" cy="210" r="210" transform="translate(77.5 77.5)"/>
+    </g>
+    <g id="chat" transform="translate(2755.634 1877)">
+      <g id="Group_25" data-name="Group 25" transform="translate(3.366)">
+        <g id="Group_24" data-name="Group 24">
+          <path id="Path_269" data-name="Path 269" class="cls-2" d="M99.263,0c-.052.052-.156.052-.313.052a95.376,95.376,0,0,0-74.8,154.811l-13.908,32.3a5.184,5.184,0,0,0,2.709,6.824,5.3,5.3,0,0,0,2.969.365l51-8.959a91.9,91.9,0,0,0,31.775,5.522A95.455,95.455,0,0,0,99.263,0Zm-.521,180.543a83.615,83.615,0,0,1-29.431-5.365,5,5,0,0,0-2.761-.26l-42.922,7.5,11.356-26.41a5.238,5.238,0,0,0-.833-5.469A83.277,83.277,0,0,1,19.67,126.474,85.047,85.047,0,1,1,183.909,95.012v.313A85.277,85.277,0,0,1,98.743,180.543Z" transform="translate(-3.366)"/>
+        </g>
+      </g>
+      <g id="Group_27" data-name="Group 27" transform="translate(61.342 76.416)">
+        <g id="Group_26" data-name="Group 26">
+          <path id="Path_270" data-name="Path 270" class="cls-2" d="M148,146.7H119.875a5.209,5.209,0,0,0,0,10.418H148a5.209,5.209,0,0,0,0-10.418Z" transform="translate(-114.666 -146.7)"/>
+        </g>
+      </g>
+      <g id="Group_29" data-name="Group 29" transform="translate(61.342 102.461)">
+        <g id="Group_28" data-name="Group 28">
+          <path id="Path_271" data-name="Path 271" class="cls-2" d="M184.466,196.7H119.875a5.209,5.209,0,0,0,0,10.418h64.591a5.209,5.209,0,1,0,0-10.418Z" transform="translate(-114.666 -196.7)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

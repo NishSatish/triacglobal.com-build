@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="881" height="292.417" viewBox="0 0 881 292.417">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #2098ec;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 158px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+      }
+
+      .cls-4 {
+        font-size: 177px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.07em;
+      }
+
+      .cls-6 {
+        fill: #020202;
+        font-size: 72px;
+        font-family: Montserrat-Light, Montserrat;
+        font-weight: 300;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.04em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0.03em;
+      }
+    </style>
+  </defs>
+  <g id="LOGO" class="cls-1" transform="translate(1 -134.543)">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(-1)">
+        <g id="LOGO4">
+          <rect id="Rectangle_43" data-name="Rectangle 43" class="cls-2" width="123.95" height="137.67" transform="translate(196.16 173.65)"/>
+          <rect id="Rectangle_44" data-name="Rectangle 44" class="cls-2" width="195.78" height="12.46" transform="translate(0.39 195.85)"/>
+          <text id="T" class="cls-3" transform="translate(206.59 299.38)"><tspan x="0" y="0">T</tspan></text>
+          <g id="Group_21" data-name="Group 21" transform="translate(0 -21.026)">
+            <text id="RIAC" class="cls-4" transform="translate(330.127 326.57)"><tspan x="0" y="0">RI</tspan><tspan class="cls-5" y="0">A</tspan><tspan y="0">C</tspan></text>
+          </g>
+          <rect id="Rectangle_46" data-name="Rectangle 46" class="cls-2" width="195.78" height="12.46" transform="translate(0 274.5)"/>
+          <rect id="Rectangle_47" data-name="Rectangle 47" class="cls-2" width="195.78" height="12.46" transform="translate(0 236.5)"/>
+          <text id="GLOBAL_SERVICES" data-name="GLOBAL SERVICES" class="cls-6" transform="translate(153 408.96)"><tspan x="0" y="0">G</tspan><tspan class="cls-7" y="0">L</tspan><tspan y="0">OBAL SER</tspan><tspan class="cls-8" y="0">V</tspan><tspan y="0">ICES</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

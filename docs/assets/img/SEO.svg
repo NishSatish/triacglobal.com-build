@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="332" height="332" viewBox="0 0 332 332">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2098ec;
+      }
+
+      .cls-2 {
+        fill: #fbdebf;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_19);
+      }
+    </style>
+    <filter id="Ellipse_19" x="0" y="0" width="332" height="332" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="SEO" transform="translate(-1440 -2780)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1440, 2780)">
+      <circle id="Ellipse_19-2" data-name="Ellipse 19" class="cls-1" cx="121" cy="121" r="121" transform="translate(45 33)"/>
+    </g>
+    <path id="search" class="cls-2" d="M110.477,96.848,88.666,75.037a5.246,5.246,0,0,0-3.719-1.531H81.381a45.483,45.483,0,1,0-7.876,7.876v3.566a5.246,5.246,0,0,0,1.531,3.719l21.811,21.811a5.229,5.229,0,0,0,7.416,0l6.191-6.191A5.275,5.275,0,0,0,110.477,96.848ZM45.5,73.505a28,28,0,1,1,28-28A27.986,27.986,0,0,1,45.5,73.505Z" transform="translate(1550 2878)"/>
+  </g>
+</svg>

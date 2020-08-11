@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164" height="164" viewBox="0 0 164 164">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="164" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="MENU" transform="translate(-1663 -21)">
+    <g transform="matrix(1, 0, 0, 1, 1663, 21)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="37" cy="37" r="37" transform="translate(45 35)" fill="#fbdebf"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(-1 -10)">
+      <line id="Line_1" data-name="Line 1" x2="41.688" transform="translate(1725.5 91.5)" fill="none" stroke="#39a3fa" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x2="41.688" transform="translate(1725.5 103.298)" fill="none" stroke="#39a3fa" stroke-width="5"/>
+      <line id="Line_3" data-name="Line 3" x2="41.688" transform="translate(1725.5 115.097)" fill="none" stroke="#39a3fa" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="332" height="332" viewBox="0 0 332 332">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2098ec;
+      }
+
+      .cls-2 {
+        fill: #fbdebf;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_2);
+      }
+    </style>
+    <filter id="Ellipse_2" x="0" y="0" width="332" height="332" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="UIUX" transform="translate(-185 -2295)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 185, 2295)">
+      <circle id="Ellipse_2-2" data-name="Ellipse 2" class="cls-1" cx="121" cy="121" r="121" transform="translate(45 33)"/>
+    </g>
+    <g id="UI.UX" transform="translate(302.591 2401.435)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-2" width="89" height="97" transform="translate(0.409 -0.435)"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="37" height="13" transform="translate(7.409 15.565)"/>
+      <path id="Path_36" data-name="Path 36" class="cls-1" d="M0,0H37V47H0Z" transform="translate(7.409 35.565)"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="20" height="67" transform="translate(56.409 15.565)"/>
+    </g>
+  </g>
+</svg>

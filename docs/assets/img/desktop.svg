@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90.62" height="80" viewBox="0 0 90.62 80">
+  <g id="desktop" transform="translate(0 -30)">
+    <path id="Path_19" data-name="Path 19" d="M90.62,30H0V99.381H32.036a5.316,5.316,0,0,1-5.31,5.31H10.62V110H80v-5.31H63.894a5.316,5.316,0,0,1-5.31-5.31H90.62ZM49.293,35.31l-1.53,3.674a2.656,2.656,0,0,1-4.9,0l-1.53-3.674Zm-13.717,0,2.381,5.716a7.966,7.966,0,0,0,14.708,0l2.381-5.716H85.31V83.452h-80V35.31ZM54.7,104.691H35.917a10.55,10.55,0,0,0,1.429-5.31H53.275A10.55,10.55,0,0,0,54.7,104.691ZM5.31,94.071v-5.31h80v5.31Z" fill="#72c5fd"/>
+    <path id="Path_21" data-name="Path 21" d="M301,272h35.2v4.04H301Z" transform="translate(-288.203 -202.28)" fill="#72c5fd"/>
+    <path id="Path_22" data-name="Path 22" d="M181,272h28.807v13.359H181Z" transform="translate(-167.657 -222.28)" fill="#72c5fd"/>
+    <path id="Path_23" data-name="Path 23" d="M181,272h15.359v13.36H181Z" transform="translate(-121.657 -222.28)" fill="#72c5fd"/>
+  </g>
+</svg>

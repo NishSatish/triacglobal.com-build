@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320.11" height="193" viewBox="0 0 320.11 193">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7d2b0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 158px;
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 -5.81)">
+    <g id="Layer_1" data-name="Layer 1">
+      <g id="MINI">
+        <rect id="Rectangle_39" data-name="Rectangle 39" class="cls-1" width="123.95" height="137.67" transform="translate(196.16 33.07)"/>
+        <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="195.78" height="12.46" transform="translate(0.39 55.28)"/>
+        <text id="T" class="cls-2" transform="translate(208.59 158.81)"><tspan x="0" y="0">T</tspan></text>
+        <rect id="Rectangle_41" data-name="Rectangle 41" class="cls-1" width="195.78" height="12.46" transform="translate(0 133.92)"/>
+        <rect id="Rectangle_42" data-name="Rectangle 42" class="cls-1" width="195.78" height="12.46" transform="translate(0 95.92)"/>
+      </g>
+    </g>
+  </g>
+</svg>

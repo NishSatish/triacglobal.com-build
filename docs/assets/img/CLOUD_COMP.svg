@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="332" height="332" viewBox="0 0 332 332">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2098ec;
+      }
+
+      .cls-2 {
+        fill: #fbdebf;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_6);
+      }
+    </style>
+    <filter id="Ellipse_6" x="0" y="0" width="332" height="332" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="CLOUD_COMP" transform="translate(-831 -2780)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 831, 2780)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" class="cls-1" cx="121" cy="121" r="121" transform="translate(45 33)"/>
+    </g>
+    <g id="CLOUD_COMPUTING" data-name="CLOUD COMPUTING" transform="translate(6 156)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-2" width="20" height="112" transform="translate(935.5 2758.5) rotate(-90)"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-2" width="20" height="112" transform="translate(935.5 2788.5) rotate(-90)"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-2" width="20" height="112" transform="translate(935.5 2818.5) rotate(-90)"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="5" cy="5" r="5" transform="translate(942 2744)"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="5" cy="5" r="5" transform="translate(942 2774)"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="5" cy="5" r="5" transform="translate(942 2804)"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-1" width="65" height="7" transform="translate(968 2745)"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" class="cls-1" width="65" height="7" transform="translate(968 2775)"/>
+      <rect id="Rectangle_26" data-name="Rectangle 26" class="cls-1" width="65" height="7" transform="translate(968 2805)"/>
+    </g>
+  </g>
+</svg>
