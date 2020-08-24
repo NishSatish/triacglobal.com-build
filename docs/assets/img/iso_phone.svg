@@ -19,7 +19,7 @@
       }
 
       .cls-5 {
-        fill: #fbdebf;
+        fill: #fcc993;
       }
 
       .cls-6 {
@@ -83,9 +83,9 @@
           <path id="Path_39" data-name="Path 39" class="cls-4" d="M515.932,28.3c-22.345-12.715-58.762-12.435-80.92.608L38.781,261.987c-22.158,13.043-22.345,34.687-.421,48.1l149.311,91.438c21.925,13.417,58.014,13.744,80.219.748L673.377,164.425c22.205-13,22.065-34.032-.28-46.747Z" transform="translate(80.986 69.593)"/>
           <path id="Path_40" data-name="Path 40" class="cls-5" d="M451.761,28.144a44.784,44.784,0,0,0-40.483.327L38.093,247.81c-11.079,6.545-11.173,17.343-.234,24.075L196.52,369.026a43.008,43.008,0,0,0,40.109.374L617.667,145.9c11.079-6.5,10.986-17.016,0-23.374Z" transform="translate(109.208 86.247)"/>
           <path id="Path_41" data-name="Path 41" class="cls-6" d="M235.791,6,88.49,91.688,264.868,198.646l148.563-85.127Z" transform="translate(325.178 22.048)"/>
-          <path id="Path_42" data-name="Path 42" class="cls-7 animate" d="M103.454,34l132.3,74.8-32.723,18.7L75.78,51.9Z" transform="translate(278.472 124.941)"/>
-          <path id="Path_43" data-name="Path 43" class="cls-7 animate" d="M91.454,41l132.3,74.8-32.723,18.7L63.78,58.9Z" transform="translate(234.375 150.664)"/>
-          <path id="Path_44" data-name="Path 44" class="cls-7 animate" d="M78.454,49l132.3,74.8-32.723,18.7L50.78,66.9Z" transform="translate(186.603 180.062)"/>
+          <path id="Path_42" data-name="Path 42" class="cls-7" d="M103.454,34l132.3,74.8-32.723,18.7L75.78,51.9Z" transform="translate(278.472 124.941)"/>
+          <path id="Path_43" data-name="Path 43" class="cls-7" d="M91.454,41l132.3,74.8-32.723,18.7L63.78,58.9Z" transform="translate(234.375 150.664)"/>
+          <path id="Path_44" data-name="Path 44" class="cls-7" d="M78.454,49l132.3,74.8-32.723,18.7L50.78,66.9Z" transform="translate(186.603 180.062)"/>
           <path id="Path_45" data-name="Path 45" class="cls-8" d="M92.946,52.5,27.5,89.9l130.893,74.8,60.772-32.723Z" transform="translate(101.055 192.924)"/>
         </g>
       </g>

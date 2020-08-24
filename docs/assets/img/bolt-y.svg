@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40.31" height="19.25" viewBox="0 0 40.31 19.25">
+<svg xmlns="http://www.w3.org/2000/svg" width="60.31" height="28.801" viewBox="0 0 60.31 28.801">
   <defs>
     <style>
       .cls-1 {
-        fill: #FBDEBF;
+        fill: #fcc993;
       }
     </style>
   </defs>
-  <path id="Path_2" data-name="Path 2" class="cls-1" d="M232.47,157.47l21.03-10.12,1.4,8.84,17.88-10.07-18.69,19.25-5.86-11.3Z" transform="translate(-232.47 -146.12)"/>
+  <path id="Path_128" data-name="Path 128" class="cls-1" d="M232.47,163.1l31.464-15.141,2.095,13.226L292.78,146.12l-27.963,28.8-8.767-16.907Z" transform="translate(-232.47 -146.12)"/>
 </svg>

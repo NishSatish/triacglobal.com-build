@@ -2,7 +2,7 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #efefef;
+        fill: #fcc993;
       }
 
       .cls-2 {
@@ -12,10 +12,10 @@
       }
 
       .cls-3 {
-        filter: url(#Ellipse_1);
+        filter: url(#Path_272);
       }
     </style>
-    <filter id="Ellipse_1" x="0" y="0" width="164" height="164" filterUnits="userSpaceOnUse">
+    <filter id="Path_272" x="0" y="0" width="164" height="164" filterUnits="userSpaceOnUse">
       <feOffset dy="10" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="15" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -25,7 +25,7 @@
   </defs>
   <g id="MENU" transform="translate(-1663 -21)">
     <g class="cls-3" transform="matrix(1, 0, 0, 1, 1663, 21)">
-      <circle id="Ellipse_1-2" data-name="Ellipse 1" class="cls-1" cx="37" cy="37" r="37" transform="translate(45 35)"/>
+      <path id="Path_272-2" data-name="Path 272" class="cls-1" d="M37,0A37,37,0,1,1,0,37,37,37,0,0,1,37,0Z" transform="translate(45 35)"/>
     </g>
     <g id="Group_6" data-name="Group 6" transform="translate(-1 -10)">
       <line id="Line_1" data-name="Line 1" class="cls-2" x2="41.688" transform="translate(1725.5 91.5)"/>

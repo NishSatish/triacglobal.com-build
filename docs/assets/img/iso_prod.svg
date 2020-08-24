@@ -10,7 +10,7 @@
       }
 
       .cls-3 {
-        fill: #fbdebf;
+        fill: #fcc993;
       }
 
       .cls-19, .cls-4 {
@@ -85,7 +85,6 @@
       .cls-18, .cls-20 {
         opacity: 0.1;
       }
-
     </style>
     <linearGradient id="linear-gradient" y1="-2.625" x2="1" y2="-2.625" gradientUnits="objectBoundingBox">
       <stop offset="0.21" stop-color="#fff" stop-opacity="0"/>
